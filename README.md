@@ -46,6 +46,8 @@
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
 </div>
 
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitoria-assumpcao/vitoria-assumpcao/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitoria-assumpcao/vitoria-assumpcao/output/pacman-contribution-graph.svg">
